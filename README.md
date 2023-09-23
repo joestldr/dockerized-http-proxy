@@ -14,7 +14,7 @@ docker run \
     --detach \
     --restart=unless-stopped \
     --publish=3128:3128 \
-  tldr/http-proxy:latest
+  joestldr/http-proxy:latest
 ```
 
 ## Use config file
@@ -40,7 +40,7 @@ docker run \
     --restart=unless-stopped \
     --publish=3128:3128 \
     --mount="type=bind,source=${CONF_PATH},target=/etc/tinyproxy.conf,readonly" \
-  tldr/http-proxy:latest
+  joestldr/http-proxy:latest
 ```
 
 # License
