@@ -4,7 +4,7 @@ Powered by: [tinyproxy](https://github.com/tinyproxy)
 
 DockerHub: https://hub.docker.com/r/joestldr/http-proxy
 
-GitHub: https://github.com/joes-tldr/http-proxy
+GitHub: https://github.com/joes-tldr/dockerized-http-proxy
 
 ## TLDR; Quickstart
 
