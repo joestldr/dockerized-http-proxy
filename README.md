@@ -43,6 +43,12 @@ docker run \
   joestldr/http-proxy:latest
 ```
 
+## Sample `docker compose` usage:
+
+See "Dockerized VPN Proxy" - Magical HTTP and SOCKS4/SOCKS5 proxy behind VPN (without host being on VPN)
+
+Link: https://github.com/joestldr/dockerized-vpn-proxy
+
 # License
 
 Copyright 2023 [joestldr](https://joestldr.com)
